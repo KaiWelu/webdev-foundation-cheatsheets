@@ -2,9 +2,11 @@
 <article>
     <div>
         <h2>Terminal</h2>
-        <p>pwd shows the current directory</p>
-        <p>clear clears the output of the terminal</p>
-        <p>ls shows the content of the current folder -l shows the long form and -a shows hidden files</p>
+        <p><code>pwd</code>shows the current directory</p>
+        <p><code>clear</code> clears the output of the terminal</p>
+        <p><code>ls</code> shows the content of the current folder <code>-l</code> shows the long form and
+            <code>-a</code> shows hidden files
+        </p>
     </div>
     <div>
         <h2>Git</h2>
