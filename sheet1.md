@@ -33,6 +33,20 @@
     </div>
     <div>
         <h2>Git</h2>
+        <p><code>git config --global --list</code> will show the config of your current user</p>
+        <p><code>git init</code>reates a empty Git repository in the current folder (be careful not to nest them)</p>
+        <p><code>git status</code>shows information about the status of your repository</p>
+        <p><code>git add [filename]</code> adds the file to the stage</p>
+        <p><code>git add *.[filetype]</code> adds all files of the specified type to the stage</p>
+        <p><code>git add *</code> adds all changed files to the stage</p>
+        <p><code>git commit -m "[message]"</code> commits the changes to the current branch and a message (without
+            opening an text editor)</p>
+        <p><code>git log</code> shows a history of the current repository</p>
+        <p><code>git remote add origin git@github.com:userName/repo.git</code> connects the local repository with a
+            remote repository on github</p>
+        <p><code>git remote -v </code> shows information about the remote status in long form</p>
+        <p><code>git push -u origin main</code> connects the local branch with the remote main branch</p>
+        <p><code>git push</code> will push your local commits to the remote repository</p>
     </div>
     <div>
         <h2>HTML</h2>
