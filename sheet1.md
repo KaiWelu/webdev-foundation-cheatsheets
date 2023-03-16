@@ -11,8 +11,6 @@
 <h1>Cheat Sheets for Web Dev Foundation</h1>
 <p>This is a small collection of commands as a reference the Web Dev Foundation course.</p>
 <br>
-<br>
-
 <article>
     <div>
         <h2>Terminal</h2>
