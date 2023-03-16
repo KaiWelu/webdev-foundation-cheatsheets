@@ -3,3 +3,4 @@
     <h2>Terminal</h2>
     <p>this is gonna be a cheat sheet for the terminal</p>
 </article>
+<!-- this is a sample comment -->
