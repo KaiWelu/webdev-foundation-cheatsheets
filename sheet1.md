@@ -6,12 +6,6 @@
     -add workflows for git
     -add in page links
 -->
-<style>
-    code {
-        font-family: monospace;
-        background-color: rgba(233, 227, 227, 0.7);
-    }
-</style>
 
 <h1>Cheat Sheets for Web Dev Foundation</h1>
 <p>This is a small collection of commands as a reference the Web Dev Foundation course.</p>
