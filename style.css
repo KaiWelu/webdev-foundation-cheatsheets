@@ -1,0 +1,20 @@
+body {
+  background-color: bisque;
+}
+
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+code {
+  font-family: monospace;
+  background-color: rgb(17, 112, 121);
+  color: white;
+  padding: 0.25rem 0.25rem;
+}
+
+article {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.3em;
+}
