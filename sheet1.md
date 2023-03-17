@@ -25,7 +25,7 @@
             with spaces</p>
         <p><code>echo "[message]" > [filename]</code> will send the message argument to the specified file</p>
         <p><code>cat [filename]</code> shows the content of a file</p>
-        <p><code> cat [filename1] > [filename2]</code> sends the contents of file1 to file2</p>
+        <p><code>cat [filename1] > [filename2]</code> sends the contents of file1 to file2</p>
         <p><code>mv [filename] [foldername]</code> moves a file to specified folder</p>
         <p><code>mv [oldname] [newname]</code> renames a file</p>
         <p><code>cp [filename] [foldername]</code> copies a file to the specified folder</p>
