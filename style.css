@@ -1,5 +1,9 @@
+:root {
+  --clr-bg: rgb(4, 88, 172);
+}
+
 body {
-  background-color: rgb(2, 207, 207);
+  background-color: var(--clr-bg);
   font-family: "Roboto", sans-serif;
   box-sizing: border-box;
 }
@@ -7,15 +11,15 @@ body {
 h1 {
   text-align: center;
   background-color: white;
-  color: rgb(2, 207, 207);
-  margin: 0.5rem;
+  color: var(--clr-bg);
+  margin: 2rem 0.5rem 2rem 0.5rem;
   padding: 1rem;
 }
 
 h2 {
   text-align: center;
   background-color: white;
-  color: rgb(2, 207, 207);
+  color: var(--clr-bg);
   margin: 0.5rem;
   padding: 0.5rem;
 }

@@ -42,6 +42,27 @@
             <li><code>which</code> shows from which folder a command is executed</li>
         </ul>
     </article>
+    <article>
+        <h2>Git</h2>
+        <ul>
+            <li><code>git config --global --list</code> will show the config of your current user</li>
+            <li><code>git config --global init.defaultBranch main</code> changes the default branchname to 'main'</li>
+            <li><code>git init</code>reates a empty Git repository in the current folder (be careful not to nest them)
+            </li>
+            <li><code>git status</code>shows information about the status of your repository</li>
+            <li><code>git add [filename]</code> adds the file to the stage</li>
+            <li><code>git add *.[filetype]</code> adds all files of the specified type to the stage</li>
+            <li><code>git add *</code> adds all changed files to the stage</li>
+            <li><code>git commit -m "[message]"</code> commits the changes to the current branch and a message (without
+                opening an text editor)</li>
+            <li><code>git log</code> shows a history of the current repository</li>
+            <li><code>git remote add origin git@github.com:userName/repo.git</code> connects the local repository with a
+                remote repository on github</li>
+            <li><code>git remote -v </code> shows information about the remote status in long form</li>
+            <li><code>git push -u origin main</code> connects the local branch with the remote main branch</li>
+            <li><code>git push</code> will push your local commits to the remote repository</li>
+        </ul>
+    </article>
 </body>
 
 </html>
